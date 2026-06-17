@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-misterio-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Noche de misterio dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-misterio-dulce/) |
+| **Get License** | [Get a Licensing Quote for Noche de misterio dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-misterio-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me llama en la noche de misterio dulce
+> Baby, el deseo se enciende cuando las luces se reducen
+> Me tienes cayendo en tu juego, sin frenos, a ciegas
+> Esa vibra de diabla, mi reina, tú me la entregas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
