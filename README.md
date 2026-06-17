@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-misterio-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche de misterio dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-misterio-dulce/) |
+| **Get License** | [Obtain a Music License for Noche de misterio dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-misterio-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `94296c67e653e7197ef3c91fe261d917c05820721e1b91c69d16e20dac175a46` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

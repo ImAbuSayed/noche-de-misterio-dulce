@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de misterio dulce
+
+This log tracks the cryptographic history and versioning for the song **Noche de misterio dulce** (noche-de-misterio-dulce).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:35:30.481875 | `v1` | `94296c67e653e7197ef3c91fe261d917c05820721e1b91c69d16e20dac175a46` | `86537f4f04df5c065a615253519e7db61096b031d3e747b526dace1b50f069f9` | `2026-06-17_noche-de-misterio-dulce-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
